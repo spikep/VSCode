@@ -26,6 +26,6 @@
 
 
 #Dictionary
-student = {'name':'Raj','course':'EandI','College':'KCT'}
+student = {'name':'RajMohan','course':'EandI','College':'KCT'}
 
 print(student['College'])
